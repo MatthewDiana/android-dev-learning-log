@@ -12,3 +12,4 @@
 * [Android Developer Fundamentals - 1.1: Your first Android App](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-1-build-your-first-app/1-1-c-your-first-android-app/1-1-c-your-first-android-app.html)
 ## 12/17/2018
 * [Android fundamentals 01.1: Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html?index=..%2F..android-training)
+* [Android fundamentals 01:2 Part A: Your first interactive UI](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/index.html?index=..%2F..android-training)
