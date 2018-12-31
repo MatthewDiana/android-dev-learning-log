@@ -18,3 +18,5 @@
 ## 12/28/2018
 * [Android Developer Fundamentals - 1.3: Text and scrolling views](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-1-build-your-first-app/1-3-c-text-and-scrolling-views/1-3-c-text-and-scrolling-views.html)
 * [Android Developers Blog - Linkify your Text!](https://android-developers.googleblog.com/2008/03/linkify-your-text.html)
+## 12/31/2018
+* [Android Developer Fundamentals - 1.4: Resources to help you learn](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-1-build-your-first-app/1-4-c-resources_to_help_you_learn/1-4-c-resources_to_help_you_learn.html)
