@@ -25,3 +25,5 @@
 * [Android fundamentals 01.2 Part B: The layout editor](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/index.html?index=..%2F..android-training)
 ## 01/05/2019
 * [Android Developer Fundamentals - 2.2: Activity lifecycle and state](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-2-activities-and-intents/2-2-c-activity-lifecycle-and-state/2-2-c-activity-lifecycle-and-state.html)
+## 01/08/2019
+* [Android Developer Fundamentals - 2.3: Implicit intents](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-2-activities-and-intents/2-3-c-implicit-intents/2-3-c-implicit-intents.html)
